@@ -12,25 +12,22 @@ html {
 }
 
 #a {
-  height:200px;
-  width:200px;
+  height:150px;
+  width:2000px;
   background-color:green;
-  display: inline-block;
 }
 #b {
-  height:200px;
-  width:200px;
+  height:100px;
+  width:2000px;
   background-color:yellow;
-  display: inline-block;
 }
 #c {
-  height:200px;
-  width:200px;
+  height:100px;
+  width:2000px;
   background-color:blue;
-    display: inline-block;
 }
 
 #d {
-  height:100px;
-  width:100px;
+  height:500px;
+  width:500px;
 }
