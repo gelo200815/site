@@ -1,33 +1,28 @@
 html {
-  font-family: "Silkscreen", sans-serif;
+  font-family: "Agbalumo", system-ui;
   font-weight: 400;
   font-style: normal;
-  font-size: 60px;
+  font-size:50px;
 }
-
-.silkscreen-bold {
-  font-family: "Silkscreen", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
-
 #a {
   height:150px;
   width:2000px;
-  background-color:green;
+  background-color:LightGreen;
 }
 #b {
-  height:100px;
+  height:150px;
   width:2000px;
   background-color:yellow;
+  display: inline-block;
 }
 #c {
   height:100px;
   width:2000px;
-  background-color:blue;
+  background-color:RoyalBlue;
+  display: inline-block;
 }
 
 #d {
-  height:500px;
-  width:500px;
+  height:160px;
+  width:2000px;
 }
